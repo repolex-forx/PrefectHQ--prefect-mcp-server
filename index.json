@@ -1,0 +1,11 @@
+{
+  "org": "PrefectHQ",
+  "repo": "prefect-mcp-server",
+  "versions": [
+    {
+      "commit": "48efd289bdb2b94a78e35b1331fbefc4fa3f6411",
+      "tag": "",
+      "parsed_at": "2026-11-08T02:53:40.455731+00:00"
+    }
+  ]
+}
