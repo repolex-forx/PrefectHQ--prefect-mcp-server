@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/PrefectHQ/prefect-mcp-server/commit/48efd289bdb2b94a78e35b1331fbefc4fa3f6411",
       "git:hexsha": "48efd289bdb2b94a78e35b1331fbefc4fa3f6411",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-08T02:53:40.455293+00:00"
     },
     {
       "@id": "https://repolex.ai/r/PrefectHQ/prefect-mcp-server/commit/43d0b9d425506af15696f24d7f704bd582425239",
